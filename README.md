@@ -1,0 +1,1 @@
+Sample repo for medium article Build and push image to ECR with github actions using your own runner.
